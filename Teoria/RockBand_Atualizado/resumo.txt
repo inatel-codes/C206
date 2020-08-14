@@ -1,0 +1,5 @@
+Associação: Interação entre classes mais generica (Associa as Classes com nossas proprias regras);
+
+Agregação: Tipo de associação de classes mais fraca (TODO-PARTE) -> Se o TODO for destruido, a PARTE ainda existirá;
+
+Composição: Tipo de associação mais forte (TODO-PARTE) -> Se o TODO for destruido, a PARTE tambem será destruida.
